@@ -35,3 +35,7 @@ contribuidores
 fornecer um feedback, indique como ela pode se comunicar com você.
 
 Fazendo uma alteração no readme
+===
+LEMBREI TEM MAIS
+senai-git/minha-primeira-branch
+Lembrado legal
