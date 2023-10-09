@@ -34,3 +34,4 @@ contribuidores
 *quais foram os contribuidores que auxiliaram no desenvolvimento do projeto? caso a pessoa tenha algum problema ou queira 
 fornecer um feedback, indique como ela pode se comunicar com você.
 
+Fazendo uma alteração no readme
